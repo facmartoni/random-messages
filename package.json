@@ -16,5 +16,13 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facmartoni/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/facmartoni/random-messages/issues"
+  },
+  "homepage": "https://github.com/facmartoni/random-messages#readme"
 }
